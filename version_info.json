@@ -1,11 +1,11 @@
 {
-  "app_version": "0.0.1",
+  "app_version": "1.0.0",
   "app_description": "강우 관측 데이터를 WAMIS/KMA API에서 수집하여\nParquet 기반 로컬 DB로 관리하고 엑셀로 추출하는 도구입니다.",
   "db_version": "ver2025.0",
   "db_release_date": "2026. 3. 30.",
   "db_description": "2017년 이전: RFAHD 강우자료\n2018~2025년: wamis 및 기상청 제공 강우자료",
   "release_date": "2026. 3. 30.",
-  "app_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/v0.0.1/RainFall_v0.0.1.zip",
+  "app_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/v1.0.0/RainFall_v1.0.0.zip",
   "db_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/db-vver2025.0/rainfall_db_ver2025.0.zip",
   "db_changelog": "minor change"
 }
