@@ -6,6 +6,6 @@
   "db_description": "2017년 이전: RFAHD 강우자료\n2018~2025년: wamis 및 기상청 제공 강우자료",
   "release_date": "2026. 3. 30.",
   "app_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/v1.0.0/RainFall_v1.0.0.zip",
-  "db_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/db-vver2025.0/rainfall_db_ver2025.0.zip",
+  "db_download_url": "https://github.com/Civilten/Rainfall-releases/releases/download/db-vver2025.1/rainfall_db_ver2025.1.zip",
   "db_changelog": "minor change"
 }
